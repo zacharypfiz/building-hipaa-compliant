@@ -37,7 +37,7 @@ The Health Insurance Portability and Accountability Act (HIPAA) is a U.S. law en
 
 
 
-* **Consumer Health Apps**: Manage health information for personal use and do not share data with covered entities or business associates, such as fitness trackers and diet apps that store data locally or in the cloud. They are not required to implement all HIPAA safeguards but must still protect consumer health information under other laws like the FTC Act. Failure to protect data adequately can lead to legal action.
+* **Consumer Health Apps**: These are apps that manage health information for personal use and do not share data with covered entities or business associates, such as fitness trackers and diet apps that store data locally or in the cloud. They are not required to implement all HIPAA safeguards but must still protect consumer health information under other laws like the FTC Act. Failure to protect data adequately can lead to legal action.
 
 
 ### Importance of Compliance in Healthcare Technology
