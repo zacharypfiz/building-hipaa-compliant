@@ -1,4 +1,4 @@
-# **Chapter 2**: **Understanding the Legal and Regulatory Landscape**
+# **Chapter 2**: **Understanding the Regulatory Landscape**
 
 
 
