@@ -45,5 +45,8 @@
     <li>
       <a href="04 Technical Infrastructure.md">Technical Infrastructure</a>
     </li>
+    <li>
+      <a href="05 Fast-Track Compliance Solutions.md">Fast-Track Compliance Solutions</a>
+    </li>
   </ol>
 </details>
